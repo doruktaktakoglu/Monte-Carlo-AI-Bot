@@ -134,10 +134,6 @@ The final score is $`A:B = 15:10`$. So A wins the game.
 
 Feel free to open an issue in this repository, or contact us in Ed thread.
 
-## About
-
-This is a class project for COMP 424, McGill University, Winter 2022.
-
 ## License
 
 [MIT](LICENSE)
